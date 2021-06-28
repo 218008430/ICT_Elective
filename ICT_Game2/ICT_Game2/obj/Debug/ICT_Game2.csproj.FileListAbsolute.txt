@@ -1,0 +1,11 @@
+C:\Users\Ethan\source\repos\ICT_Game2\ICT_Game2\bin\Debug\ICT_Game2.exe.config
+C:\Users\Ethan\source\repos\ICT_Game2\ICT_Game2\bin\Debug\ICT_Game2.exe
+C:\Users\Ethan\source\repos\ICT_Game2\ICT_Game2\bin\Debug\ICT_Game2.pdb
+C:\Users\Ethan\source\repos\ICT_Game2\ICT_Game2\obj\Debug\ICT_Game2.csprojAssemblyReference.cache
+C:\Users\Ethan\source\repos\ICT_Game2\ICT_Game2\obj\Debug\ICT_Game2.Form1.resources
+C:\Users\Ethan\source\repos\ICT_Game2\ICT_Game2\obj\Debug\ICT_Game2.Properties.Resources.resources
+C:\Users\Ethan\source\repos\ICT_Game2\ICT_Game2\obj\Debug\ICT_Game2.QuestionAnswer.resources
+C:\Users\Ethan\source\repos\ICT_Game2\ICT_Game2\obj\Debug\ICT_Game2.csproj.GenerateResource.cache
+C:\Users\Ethan\source\repos\ICT_Game2\ICT_Game2\obj\Debug\ICT_Game2.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\ICT_Game2\ICT_Game2\obj\Debug\ICT_Game2.exe
+C:\Users\Ethan\source\repos\ICT_Game2\ICT_Game2\obj\Debug\ICT_Game2.pdb
